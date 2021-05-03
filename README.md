@@ -8,9 +8,9 @@
    - [React](https://pt-br.reactjs.org/)
 
 ## Feature
-- [] Preparar o back-end;
-- [] Montar uma base de README;
-- [] Criar o layout;
-- [] Preparar o front-end;
-- [] Integrar com gitHub;
+- [ ] Preparar o back-end;
+- [ ] Montar uma base de README;
+- [ ] Criar o layout;
+- [ ] Preparar o front-end;
+- [ ] Integrar com gitHub;
 
